@@ -80,7 +80,7 @@ Sebelum menjalankan program ini, pastikan perangkat kamu sudah memiliki:
 
 ### ✍️ **Dibuat oleh**
 
-**Faiz Atha** – SMK TI Muhammadiyah Cikampek
-📅 *Ujian Tengah Semester | Pemrograman Dasar Java*
+**Faiz Atha** – Horizon University
+📅 *Ujian Tengah Semester | IF 1 B*
 
 ---
