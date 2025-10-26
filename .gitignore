@@ -1,0 +1,32 @@
+# === Java ===
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.zip
+*.tar.gz
+*.rar
+
+# === VS Code ===
+.vscode/
+.history/
+.settings/
+.project
+.classpath
+
+# === OS-specific ===
+# macOS
+.DS_Store
+# Win
